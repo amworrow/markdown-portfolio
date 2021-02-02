@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![profile image](https://hottopic.scene7.com/is/image/HotTopic/12750930_hi?$pdp_hero_small$)
